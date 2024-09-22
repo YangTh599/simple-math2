@@ -1,4 +1,4 @@
-## Python: Basic Math (Part 2)
+## Python: Simple Math (Part 2)
 
 ### Getting Started
 
