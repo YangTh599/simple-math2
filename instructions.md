@@ -19,7 +19,7 @@
 
 ### Comments, anyone?
 
-- Add a comment block (*Basic Math (Part 2)* as your project name)
+- Add a comment block (*Simple Math (Part 2)* as your project name)
 - Add a few brief comments to explain what the main parts of your script are doing
 
 ### Your Tasks
