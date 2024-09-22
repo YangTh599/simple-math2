@@ -8,8 +8,8 @@
     - Teacher will discuss your work with you during Teacher  Time
 
 - Create a NEW folder on your workstation desktop
-- Use VS Code to add a Python file to this new folder
-- Use VS Code to write your code
+- Use VS Code to add your Python file to this new folder
+
 
 
 ### Objective
